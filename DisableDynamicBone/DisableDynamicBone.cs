@@ -13,7 +13,7 @@ namespace DisableDynamicBone
         public override string Name => "DisableDynamicBone";
         public override string Author => "kokoa";
         public override string Version => "1.0.0";
-        public override string Link => "";
+        public override string Link => "https://github.com/rassi0429/DisableDynamicBone/";
 
         internal static ModConfiguration config;
 
